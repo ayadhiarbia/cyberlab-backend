@@ -8,4 +8,5 @@ urlpatterns = [
      path('api/', include('labs.urls')),
      path('api/ctf/', include('ctf.urls')),
      path('api/soc/', include('soc.urls')),
+     path('api/vulnerabilities/', include('vulnerabilities.urls')), 
 ]

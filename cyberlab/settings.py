@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'ai',
     'ctf',
     'soc',
+    'vulnerabilities', 
 ]
 
 
