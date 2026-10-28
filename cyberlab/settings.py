@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'labs',
     'ai',
     'ctf',
+    'soc',
 ]
 
 

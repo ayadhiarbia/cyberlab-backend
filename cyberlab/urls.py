@@ -7,4 +7,5 @@ urlpatterns = [
      path('api/ai/', include('ai.urls')),
      path('api/', include('labs.urls')),
      path('api/ctf/', include('ctf.urls')),
+     path('api/soc/', include('soc.urls')),
 ]
